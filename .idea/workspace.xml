@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="557bef0b-690f-4866-9bc1-c172c8cc5b6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angular-api/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-api/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28ZRHeD291zj0r9SwJsTqzJ7Bnk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="557bef0b-690f-4866-9bc1-c172c8cc5b6f" name="Default Changelist" comment="" />
+      <created>1651422034718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651422034718</updated>
+    </task>
+    <servers />
+  </component>
+</project>
